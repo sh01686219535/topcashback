@@ -1,0 +1,13 @@
+
+.collapsible {
+  cursor: pointer;
+}
+
+.collapsible-content {
+  display: none;
+}
+
+.collapsible-content.show {
+  display: block;
+}
+
