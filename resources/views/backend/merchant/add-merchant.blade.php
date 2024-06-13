@@ -160,8 +160,8 @@
     });
 });
 </script>
-{{-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4Q5eWuRggdxRTQDghITcoviXnYOLoU9k&libraries=places&callback=initMap"></script> --}}
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAD2zmOHWtuqxbthZC3dL4FKe211vvdOnk&libraries=places&callback=initMap"></script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=google api &libraries=places&callback=initMap"></script>
 <script>
     $(document).ready(function(){
         var input = document.getElementById('address');
